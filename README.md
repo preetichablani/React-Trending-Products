@@ -10,10 +10,16 @@ interface - Component-based React structure
 
 Technologies - React.js - JavaScript - CSS - Vite
 
-Purpose
+
+🎯 Purpose
+
 
 These projects demonstrate practical experience with React fundamentals,
 component-based development, user interfaces, forms, task management,
 and deployment of React applications using GitHub Pages.
 
 Live Demo: https://preetichablani.github.io/React-Trending-Products/
+
+👩‍💻 Author
+
+Preeti Chablani
