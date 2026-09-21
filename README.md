@@ -1,16 +1,19 @@
-# React + Vite
+React Trending Products
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A product showcase application that displays trending products such as
+laptops, mobile phones, gaming consoles, and fitness devices in a clean
+card-based layout.
 
-Currently, two official plugins are available:
+Key Features - Product cards with reusable React components -
+Product names, images, and prices - Clean and responsive user
+interface - Component-based React structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Technologies - React.js - JavaScript - CSS - Vite
 
-## React Compiler
+Purpose
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+These projects demonstrate practical experience with React fundamentals,
+component-based development, user interfaces, forms, task management,
+and deployment of React applications using GitHub Pages.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live Demo: https://preetichablani.github.io/React-Trending-Products/
