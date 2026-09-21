@@ -1,4 +1,4 @@
-React Trending Products
+🛍️ React Trending Products
 
 A product showcase application that displays trending products such as
 laptops, mobile phones, gaming consoles, and fitness devices in a clean
